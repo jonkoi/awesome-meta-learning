@@ -21,7 +21,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
    * Divide subspace for task specific learner.
    * MT-Net and T-Net
    * 51.7
-* * [On First-Order Meta-Learning Algorithms](https://arxiv.org/abs/1803.02999). Alex Nichol, Joshua Achiam, John Schulman.
+* [On First-Order Meta-Learning Algorithms](https://arxiv.org/abs/1803.02999). Alex Nichol, Joshua Achiam, John Schulman.
 [![Code](github.jpg)](https://github.com/openai/supervised-reptile) 
    * 53
    * Simple with theoretical to understand the process
