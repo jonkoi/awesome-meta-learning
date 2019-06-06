@@ -10,10 +10,17 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 # Papers and Code
 
 * [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples](https://arxiv.org/pdf/1903.03096v1.pdf). Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, Hugo Larochelle.
+   * 1
    * Non-episodic vs episodic
-   * Proto-MAML
+   * Proto-MAML: Look-simple combination
    * Benchmark
+   * Episodic sampling scheme
 * [Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace](https://arxiv.org/abs/1801.05558). Yoonho Lee, Seungjin Choi.
+   * 17
+   * (MAML) An implicit assumption in havingthe meta-learner operate in the same space as task-specificlearners is that the two different scopes of learning requireequal degrees of freedom.
+   * Divide subspace for task specific learner.
+   * MT-Net and T-Net
+   * 51.7
 [![Code](github.jpg)](https://github.com/yoonholee/MT-net)
 
 * [FIGR: Few-shot Image Generation with Reptile](https://arxiv.org/abs/1901.02199). Louis Clouâtre, Marc Demers.
