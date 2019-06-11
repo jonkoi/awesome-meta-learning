@@ -4,6 +4,7 @@ A curated list of Meta-Learning resources. Inspired by [awesome-deep-vision](htt
 
 Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-learning/pulls) or [open an issue](https://github.com/dragen1860/awesome-meta-learning/issues) to add papers.
  
+Disclaimer: This is a fork containing my own notes that will not make sense to readers. Please refer to the original repository. 
 
 ![learning2learn](learning2learn.jpg)
 
