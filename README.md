@@ -4,7 +4,6 @@ A curated list of Meta-Learning resources. Inspired by [awesome-deep-vision](htt
 
 Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-learning/pulls) or [open an issue](https://github.com/dragen1860/awesome-meta-learning/issues) to add papers.
  
-Disclaimer: This is a fork containing my own notes that will not make sense to readers. Please refer to the original repository. 
 
 ![learning2learn](learning2learn.jpg)
 
@@ -18,12 +17,14 @@ Disclaimer: This is a fork containing my own notes that will not make sense to r
    * Episodic sampling scheme
 * [Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace](https://arxiv.org/abs/1801.05558). Yoonho Lee, Seungjin Choi.[![Code](github.jpg)](https://github.com/yoonholee/MT-net)
    * 17
+   * Few-shot learning
    * (MAML) An implicit assumption in havingthe meta-learner operate in the same space as task-specificlearners is that the two different scopes of learning requireequal degrees of freedom.
    * Divide subspace for task specific learner.
    * MT-Net and T-Net
    * 51.7
 * [On First-Order Meta-Learning Algorithms](https://arxiv.org/abs/1803.02999). Alex Nichol, Joshua Achiam, John Schulman.
 [![Code](github.jpg)](https://github.com/openai/supervised-reptile) 
+   * Few-shot learning
    * 53
    * Simple with theoretical to understand the process
    * VS MAML
@@ -34,15 +35,22 @@ Disclaimer: This is a fork containing my own notes that will not make sense to r
 
 * [Online gradient-based mixtures for transfer modulation in meta-learning](https://arxiv.org/abs/1812.06080). Ghassen Jerfel, Erin Grant, Thomas L. Griffiths, Katherine Heller.
    * 50.08
+   * Few-shot learning
 
 * [Auto-Meta: Automated Gradient Based Meta Learner Search](https://arxiv.org/pdf/1806.06927.pdf). Jaehong Kim, Youngduck Choi, Moonsu Cha, Jung Kwon Lee, Sangyeul Lee, Sungwan Kim, Yongseok Choi, Jiwon Kim.
-   * 
+   * 3
+   * combination of stuffs: PNAS and reptile
 
 * [MetaGAN: An Adversarial Approach to Few-Shot Learning](http://papers.nips.cc/paper/7504-metagan-an-adversarial-approach-to-few-shot-learning). ZHANG, Ruixiang and Che, Tong and Ghahramani, Zoubin and Bengio, Yoshua and Song, Yangqiu.
+   * 6
+   * Semi supervised, few-shot learning
 
 * [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813). Olga Wichrowska, Niru Maheswaranathan, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Nando de Freitas, Jascha Sohl-Dickstein.
+   * 41
+   * No few-shot learning but no small data either.
 
 * [Guiding Policies with Language via Meta-Learning](https://arxiv.org/abs/1811.07882). John D. Co-Reyes, Abhishek Gupta, Suvansh Sanjeev, Nick Altieri, John DeNero, Pieter Abbeel, Sergey Levine.
+   * Reinforcement learnung :(
 
 * [Deep Comparison: Relation Columns for Few-Shot Learning](https://128.84.21.199/abs/1811.07100?context=cs). Xueting Zhang, Flood Sung, Yuting Qiang, Yongxin Yang, Timothy M. Hospedales.
 
