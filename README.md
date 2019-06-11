@@ -50,15 +50,18 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
    * No few-shot learning but no small data either.
 
 * [Guiding Policies with Language via Meta-Learning](https://arxiv.org/abs/1811.07882). John D. Co-Reyes, Abhishek Gupta, Suvansh Sanjeev, Nick Altieri, John DeNero, Pieter Abbeel, Sergey Levine.
-   * Reinforcement learnung :(
+   * Reinforcement learning :(
 
 * [Deep Comparison: Relation Columns for Few-Shot Learning](https://128.84.21.199/abs/1811.07100?context=cs). Xueting Zhang, Flood Sung, Yuting Qiang, Yongxin Yang, Timothy M. Hospedales.
 
 * [Towards learning-to-learn](https://arxiv.org/abs/1811.00231). Benjamin James Lansdell, Konrad Paul Kording.
-
+   * FSL?
+   * About neuro-science, not really usable
 * [Learning to Learn with Gradients](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.html). Finn, Chelsea. 
+   * FSL
 * [How to train your MAML](https://arxiv.org/abs/1810.09502). Antreas Antoniou, Harrison Edwards, Amos Storkey.
 [![Code](github.jpg)](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch)
+   * FSL
 * [Learned optimizers that outperform SGD on wall-clock and validation loss](https://arxiv.org/abs/1810.10180). Luke Metz, Niru Maheswaranathan, Jeremy Nixon, C. Daniel Freeman, Jascha Sohl-Dickstein
 * [Gradient Agreement as an Optimization Objective for Meta-Learning](https://arxiv.org/pdf/1810.08178.pdf). Amir Erfan Eshratifar, David Eigen, Massoud Pedram. 
 * [Few-Shot Image Recognition by Predicting Parameters from Activations](https://arxiv.org/abs/1706.03466). Siyuan Qiao, Chenxi Liu, Wei Shen, Alan Yuille. CVPR 2018.
@@ -66,14 +69,17 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 * [META-LEARNING WITH LATENT EMBEDDING OPTIMIZATION](https://arxiv.org/pdf/1807.05960.pdf). Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero & Raia Hadsell
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400), Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML 2017.
 [![Code](github.jpg)](https://github.com/cbfinn/maml) [![Code](github.jpg)](https://github.com/cbfinn/maml_rl) [![Code](github.jpg)](https://github.com/dragen1860/MAML-Pytorch) [![Code](github.jpg)](https://github.com/tristandeleu/pytorch-maml-rl)
+   * It's MAML
 
 * [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175), Jake Snell, Kevin Swersky, Richard S. Zemel. NIPS 2017. 
 [![Code](github.jpg)](https://github.com/jakesnell/prototypical-networks)
 * [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474), Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas
 [![Code](github.jpg)](https://github.com/deepmind/learning-to-learn) 
 [![Code](github.jpg)](https://becominghuman.ai/paper-repro-learning-to-learn-by-gradient-descent-by-gradient-descent-6e504cc1c0de)
+   * Promising but 
 * [Learning to Learn without Gradient Descent by Gradient Descent](http://proceedings.mlr.press/v70/chen17e/chen17e.pdf), Yutian Chen, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Timothy P. Lillicrap,
 Matt Botvinick, Nando de Freitas, ICML 2017
+   * Promising but use RNN to synthesize something.
 * [OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=rJY0-Kcll), Sachin Ravi, Hugo Larochelle. ICLR 2017
 [![Code](github.jpg)](https://github.com/twitter/meta-learning-lstm) 
 [![Code](github.jpg)](https://github.com/gitabcworld/FewShotLearning) 
